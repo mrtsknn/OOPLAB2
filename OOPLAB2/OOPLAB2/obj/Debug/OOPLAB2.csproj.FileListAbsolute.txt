@@ -1,0 +1,35 @@
+C:\Users\murat\Desktop\OOPLAB2\OOPLAB2\bin\Debug\OOPLAB2.exe.config
+C:\Users\murat\Desktop\OOPLAB2\OOPLAB2\bin\Debug\OOPLAB2.exe
+C:\Users\murat\Desktop\OOPLAB2\OOPLAB2\bin\Debug\OOPLAB2.pdb
+C:\Users\murat\Desktop\OOPLAB2\OOPLAB2\obj\Debug\OOPLAB2.csprojAssemblyReference.cache
+C:\Users\murat\Desktop\OOPLAB2\OOPLAB2\obj\Debug\OOPLAB2.Form1.resources
+C:\Users\murat\Desktop\OOPLAB2\OOPLAB2\obj\Debug\OOPLAB2.Properties.Resources.resources
+C:\Users\murat\Desktop\OOPLAB2\OOPLAB2\obj\Debug\OOPLAB2.csproj.GenerateResource.cache
+C:\Users\murat\Desktop\OOPLAB2\OOPLAB2\obj\Debug\OOPLAB2.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\OOPLAB2\OOPLAB2\obj\Debug\OOPLAB2.exe
+C:\Users\murat\Desktop\OOPLAB2\OOPLAB2\obj\Debug\OOPLAB2.pdb
+C:\Users\murat\Desktop\OOPLAB2\OOPLAB2\obj\Debug\OOPLAB2.Form2.resources
+C:\Users\frdie\Downloads\OOPLAB2 - Kopya\OOPLAB2\bin\Debug\OOPLAB2.exe.config
+C:\Users\frdie\Downloads\OOPLAB2 - Kopya\OOPLAB2\bin\Debug\OOPLAB2.exe
+C:\Users\frdie\Downloads\OOPLAB2 - Kopya\OOPLAB2\bin\Debug\OOPLAB2.pdb
+C:\Users\frdie\Downloads\OOPLAB2 - Kopya\OOPLAB2\obj\Debug\OOPLAB2.csproj.AssemblyReference.cache
+C:\Users\frdie\Downloads\OOPLAB2 - Kopya\OOPLAB2\obj\Debug\OOPLAB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\frdie\Downloads\OOPLAB2 - Kopya\OOPLAB2\obj\Debug\OOPLAB2.Form1.resources
+C:\Users\frdie\Downloads\OOPLAB2 - Kopya\OOPLAB2\obj\Debug\OOPLAB2.Form2.resources
+C:\Users\frdie\Downloads\OOPLAB2 - Kopya\OOPLAB2\obj\Debug\OOPLAB2.Properties.Resources.resources
+C:\Users\frdie\Downloads\OOPLAB2 - Kopya\OOPLAB2\obj\Debug\OOPLAB2.csproj.GenerateResource.cache
+C:\Users\frdie\Downloads\OOPLAB2 - Kopya\OOPLAB2\obj\Debug\OOPLAB2.csproj.CoreCompileInputs.cache
+C:\Users\frdie\Downloads\OOPLAB2 - Kopya\OOPLAB2\obj\Debug\OOPLAB2.exe
+C:\Users\frdie\Downloads\OOPLAB2 - Kopya\OOPLAB2\obj\Debug\OOPLAB2.pdb
+C:\Users\frdie\Downloads\OOPLAB2-\OOPLAB2\bin\Debug\OOPLAB2.exe.config
+C:\Users\frdie\Downloads\OOPLAB2-\OOPLAB2\bin\Debug\OOPLAB2.exe
+C:\Users\frdie\Downloads\OOPLAB2-\OOPLAB2\bin\Debug\OOPLAB2.pdb
+C:\Users\frdie\Downloads\OOPLAB2-\OOPLAB2\obj\Debug\OOPLAB2.csproj.AssemblyReference.cache
+C:\Users\frdie\Downloads\OOPLAB2-\OOPLAB2\obj\Debug\OOPLAB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\frdie\Downloads\OOPLAB2-\OOPLAB2\obj\Debug\OOPLAB2.Form1.resources
+C:\Users\frdie\Downloads\OOPLAB2-\OOPLAB2\obj\Debug\OOPLAB2.Form2.resources
+C:\Users\frdie\Downloads\OOPLAB2-\OOPLAB2\obj\Debug\OOPLAB2.Properties.Resources.resources
+C:\Users\frdie\Downloads\OOPLAB2-\OOPLAB2\obj\Debug\OOPLAB2.csproj.GenerateResource.cache
+C:\Users\frdie\Downloads\OOPLAB2-\OOPLAB2\obj\Debug\OOPLAB2.csproj.CoreCompileInputs.cache
+C:\Users\frdie\Downloads\OOPLAB2-\OOPLAB2\obj\Debug\OOPLAB2.exe
+C:\Users\frdie\Downloads\OOPLAB2-\OOPLAB2\obj\Debug\OOPLAB2.pdb
