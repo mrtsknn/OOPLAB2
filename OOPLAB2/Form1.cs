@@ -97,13 +97,13 @@ namespace OOPLAB2
             if (txtuser.Text == "admin" && txtpass.Text == "admin")
             {
                 new Form2().Show();
-                this.Hide();
+                
 
             }
             else if (txtuser.Text == "user" && txtpass.Text == "user")
             {
                 new Form2().Show();
-                this.Hide();
+           
             }
             else
             {
